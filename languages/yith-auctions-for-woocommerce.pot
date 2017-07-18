@@ -1,0 +1,458 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH Auctions for WooCommerce\n"
+"POT-Creation-Date: 2017-03-10 11:14+0000\n"
+"PO-Revision-Date: 2016-01-13 15:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: YITH <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: includes/class.yith-wcact-auction-admin.php:149
+msgid "Settings"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-admin.php:154
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-admin.php:160
+msgctxt "plugin name in admin page title"
+msgid "Auctions"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-admin.php:161
+msgctxt "plugin name in admin WP menu"
+msgid "Auctions"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-admin.php:219
+msgid "Plugin documentation"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-admin.php:223
+msgid "Help Center"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-admin.php:227
+msgid "Support platform"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-admin.php:231
+msgid "Changelog"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-admin.php:231
+msgid "current version"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-admin.php:302
+msgctxt "Admin: product type"
+msgid "Auction"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-admin.php:322
+msgid "Auction"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-admin.php:409
+msgid "Start Date"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-admin.php:410
+msgid "End Date"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-admin.php:506
+#, php-format
+msgid "[%s auction]"
+msgid_plural "[%s auctions]"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class.yith-wcact-auction-admin.php:526
+msgid " [Auction element]"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-finish-auction.php:114
+msgid "You cannot buy this product"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-frontend.php:159
+msgid "Bids"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-frontend.php:216
+msgctxt "Auction end: 10 Jan 2016 10:00"
+msgid "Auction start:"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-frontend.php:222
+msgctxt "Auction end: 10 Jan 2016 10:00"
+msgid "Auction end:"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-frontend.php:243
+msgid "Bid now"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-frontend.php:263
+#, php-format
+msgid "Current bid: %s"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-frontend.php:375
+msgid "Congratulations, you won this auction"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-frontend.php:385
+#: templates/frontend/my-account-my-auction.php:54
+#: templates/frontend/my-account-my-auction.php:128
+msgid "Pay now"
+msgstr ""
+
+#: includes/class.yith-wcact-auction-my-auctions.php:89
+#: includes/class.yith-wcact-auction-my-auctions.php:122
+msgid "My auctions"
+msgstr ""
+
+#: init.php:34
+msgctxt "Alert Message: WooCommerce requires"
+msgid ""
+"YITH WooCommerce Auctions is enabled but not effective. It requires WooCommerce "
+"in order to work."
+msgstr ""
+
+#: panel/settings-options.php:25
+msgctxt "Panel: page title"
+msgid "Product settings"
+msgstr ""
+
+#: panel/settings-options.php:31
+msgctxt "Admin option: Show auctions on shop page"
+msgid "Show full Username in bid tab"
+msgstr ""
+
+#: panel/settings-options.php:33
+msgctxt ""
+"Admin option description: Check this option to show full Username in bid tab"
+msgid "Check this option to show full Username in bid tab"
+msgstr ""
+
+#: panel/settings-options.php:38
+msgctxt ""
+"Admin option: Show buttons in product page to increase or decrease the bid"
+msgid "Show buttons in product page"
+msgstr ""
+
+#: panel/settings-options.php:40
+msgctxt ""
+"Admin option description: Check this option to show buttons in product page to "
+"increase or decrease the bid"
+msgid ""
+"Check this option to show buttons in product page to increase or decrease the "
+"bid"
+msgstr ""
+
+#: panel/settings-options.php:46
+msgctxt "Admin option: Show button pay now in product page"
+msgid "Show pay now button in product page"
+msgstr ""
+
+#: panel/settings-options.php:48
+msgctxt ""
+"Admin option description: Check this option to show pay now button in product "
+"when the auction ends"
+msgid "Check this option to show pay now button in product when the auction ends "
+msgstr ""
+
+#: templates/admin/product-tabs/auction-tab.php:25
+msgid "Auction Dates"
+msgstr ""
+
+#: templates/admin/product-tabs/auction-tab.php:26
+msgid "From"
+msgstr ""
+
+#: templates/admin/product-tabs/auction-tab.php:29
+msgid "To"
+msgstr ""
+
+#: templates/frontend/auction-timeleft.php:8
+#: templates/woocommerce/single-product/add-to-cart/auction.php:102
+msgid "days"
+msgstr ""
+
+#: templates/frontend/auction-timeleft.php:10
+#: templates/woocommerce/single-product/add-to-cart/auction.php:104
+msgid "hours"
+msgstr ""
+
+#: templates/frontend/auction-timeleft.php:12
+#: templates/woocommerce/single-product/add-to-cart/auction.php:106
+msgid "minutes"
+msgstr ""
+
+#: templates/frontend/auction-timeleft.php:14
+#: templates/woocommerce/single-product/add-to-cart/auction.php:108
+msgid "seconds"
+msgstr ""
+
+#: templates/frontend/auction-timeleft.php:18
+msgid "Auction end: "
+msgstr ""
+
+#: templates/frontend/list-bids.php:19 templates/frontend/list-bids.php:77
+msgid "There is no bid for this product"
+msgstr ""
+
+#: templates/frontend/list-bids.php:26
+msgid "Username"
+msgstr ""
+
+#: templates/frontend/list-bids.php:27
+msgid "Bid Amount"
+msgstr ""
+
+#: templates/frontend/list-bids.php:28
+msgid "Datetime"
+msgstr ""
+
+#: templates/frontend/list-bids.php:64
+msgid "Start auction"
+msgstr ""
+
+#: templates/frontend/my-account-my-auction.php:20
+#: templates/frontend/my-account-my-auction.php:94
+msgid "Image"
+msgstr ""
+
+#: templates/frontend/my-account-my-auction.php:21
+#: templates/frontend/my-account-my-auction.php:95
+msgid "Product"
+msgstr ""
+
+#: templates/frontend/my-account-my-auction.php:22
+#: templates/frontend/my-account-my-auction.php:96
+msgid "Your bid"
+msgstr ""
+
+#: templates/frontend/my-account-my-auction.php:23
+#: templates/frontend/my-account-my-auction.php:97
+msgid "Current bid"
+msgstr ""
+
+#: templates/frontend/my-account-my-auction.php:24
+#: templates/frontend/my-account-my-auction.php:98
+msgid "Status"
+msgstr ""
+
+#: templates/frontend/my-account-my-auction.php:51
+#: templates/frontend/my-account-my-auction.php:125
+msgid "You won this auction"
+msgstr ""
+
+#: templates/frontend/my-account-my-auction.php:60
+#: templates/frontend/my-account-my-auction.php:134
+msgid "Closed"
+msgstr ""
+
+#: templates/frontend/my-account-my-auction.php:66
+#: templates/frontend/my-account-my-auction.php:140
+msgid "Started"
+msgstr ""
+
+#: templates/premium/premium.php:237 templates/premium/premium.php:423
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH Auctions for WooCommerce%2$s to "
+"benefit from all features!"
+msgstr ""
+
+#: templates/premium/premium.php:240 templates/premium/premium.php:426
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/premium/premium.php:241 templates/premium/premium.php:427
+msgid "to the premium version"
+msgstr ""
+
+#: templates/premium/premium.php:247
+msgid "Premium Features"
+msgstr ""
+
+#: templates/premium/premium.php:255
+msgid "Starting price"
+msgstr ""
+
+#: templates/premium/premium.php:258
+#, php-format
+msgid ""
+"Auctions always have a starting price under which the buyer can’t make the "
+"first bid. %3$s %1$sNow you can do it for your auction products too:%2$s the "
+"lower the starting price is, the more your users will make their bids."
+msgstr ""
+
+#: templates/premium/premium.php:268
+msgid "Reserve price"
+msgstr ""
+
+#: templates/premium/premium.php:271
+#, php-format
+msgid ""
+"An auction product can be a big opportunity for buyers and a loss for sellers. "
+"This is why we give you the possibility to %1$sset a reserve price%2$s: when "
+"the auction ends and the higher bid is lower than the amount you specified, the "
+"product won’t be sold."
+msgstr ""
+
+#: templates/premium/premium.php:287
+msgid "Automatic bid up"
+msgstr ""
+
+#: templates/premium/premium.php:290
+#, php-format
+msgid ""
+"To improve the %1$suser experience%2$s during the auction, the system will "
+"automatically manage the bid up and will check it doesn’t exceed the maximum "
+"amount the user intended to spend."
+msgstr ""
+
+#: templates/premium/premium.php:293
+#, php-format
+msgid ""
+"This behavior gives %1$stwo benefits%2$s: it prevents the users to miss the "
+"product if they can’t manually raise and the auction becomes more fluid."
+msgstr ""
+
+#: templates/premium/premium.php:303
+msgid "Direct selling"
+msgstr ""
+
+#: templates/premium/premium.php:306
+msgid ""
+"There are users ready to spend the required amount and complete the purchase "
+"right away even if the auction is still open. "
+msgstr ""
+
+#: templates/premium/premium.php:309
+#, php-format
+msgid ""
+"%1$sDo you want to miss this chance?%2$s We have thought about this too. Set "
+"your product price and if the user decides to pay the required amount, the "
+"product will be sold and the auction will end."
+msgstr ""
+
+#: templates/premium/premium.php:325
+msgid "Shop page"
+msgstr ""
+
+#: templates/premium/premium.php:328
+#, php-format
+msgid ""
+"Manage the view of the auction products on your site %1$sshop page%2$s in an "
+"easy way. Choose to show them all or only those for which the auction is open "
+"or ended."
+msgstr ""
+
+#: templates/premium/premium.php:338
+msgid "Notification email"
+msgstr ""
+
+#: templates/premium/premium.php:341
+#, php-format
+msgid ""
+"The specific %1$snotification emails%2$s will allow your users to be %1$sup-to-"
+"date about the auction%2$s. %3$s You can send them when the auction is about to "
+"expire or when an overbid has been made."
+msgstr ""
+
+#: templates/premium/premium.php:357
+msgid "Custom badge"
+msgstr ""
+
+#: templates/premium/premium.php:360
+#, php-format
+msgid ""
+"Each auction product can be highlighted thanks to a custom badge to %1$scatch "
+"the user’s eye%2$s among all the products of your shop."
+msgstr ""
+
+#: templates/premium/premium.php:363
+msgid ""
+"If the default icon doesn’t fit your needs, you are free to use a custom one "
+"that adjusts to your theme. "
+msgstr ""
+
+#: templates/premium/premium.php:373
+msgid "Widget"
+msgstr ""
+
+#: templates/premium/premium.php:376
+#, php-format
+msgid ""
+"The latest auctions are shown within your site %1$ssidebars%2$s. %3$sAn "
+"additional way to inform your users about the possibility to purchase specific "
+"products through an auction. %1$sToo advantageous to miss it.%2$s"
+msgstr ""
+
+#: templates/premium/premium.php:392
+msgid "Extend the expiration date"
+msgstr ""
+
+#: templates/premium/premium.php:395
+#, php-format
+msgid ""
+"You can extend the %1$sexpiration date%2$s for an auction if a customer bids a "
+"few minutes before it closes."
+msgstr ""
+
+#: templates/premium/premium.php:398
+#, php-format
+msgid ""
+"This is the only way someone who’s really interested can place their %1$slast "
+"minute%2$s bids to get what they are after."
+msgstr ""
+
+#: templates/premium/premium.php:408
+msgid "Auction product list"
+msgstr ""
+
+#: templates/premium/premium.php:411
+msgid ""
+"Through the specific shortcode, you can show the complete list of the auction "
+"products of your shop on any page of the site. The perfect chance to build a "
+"tailor-made page for all the users interested in purchasing an auction product. "
+msgstr ""
+
+#: templates/woocommerce/single-product/add-to-cart/auction.php:48
+msgid "Time left:"
+msgstr ""
+
+#: templates/woocommerce/single-product/add-to-cart/auction.php:54
+msgid "Your bid:"
+msgstr ""
+
+#: templates/woocommerce/single-product/add-to-cart/auction.php:81
+msgid "Bid"
+msgstr ""
+
+#: templates/woocommerce/single-product/add-to-cart/auction.php:96
+msgid "The auction is not available"
+msgstr ""
+
+#: templates/woocommerce/single-product/add-to-cart/auction.php:99
+msgid "Time left to start auction:"
+msgstr ""

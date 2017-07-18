@@ -1,0 +1,70 @@
+body {
+  background: #f5f5f5;
+}
+.timer {
+  font-family: Arial, sans-serif;
+  font-size: 10px;
+  color: #999;
+  letter-spacing: -1px;
+}
+.timer span {
+  font-size: 25px;
+  color: #333;
+  margin: 0 3px 0 15px;
+}
+.timer span:first-child {
+  margin-left: 0;
+}
+
+#_actual_bid {
+	width: 40%;
+}
+
+#single-product-no-bid {
+    font-size: large;
+}
+
+#yith-wcact-aution-buttons {
+  margin-top:2em;
+}
+#yith-wcact-auction-add-to-cart-button{
+  margin-left:1.5em;
+}
+#yith_reserve_price{
+  font-size:small;
+}
+#datatable {
+  width:100%;
+}
+#datatable tr td {
+  text-align: center;
+}
+.toptable{
+  font-weight: bold;
+  background-color: #DCDCDC;
+}
+
+.woocommerce ul.products li.product .yith-wcact-aution-badge{
+    top: 0;
+    right: 0;
+    left: auto;
+    margin: -.5em -.5em 0 0;
+}
+
+.woocommerce span.yith-wcact-aution-badge{
+    max-width  : 60px;
+    max-height : 60px;
+    position   : absolute;
+    top        : 0;
+    left       : 0;
+    margin     : 0;
+}
+
+#max_winner {
+    font-weight: bold;
+    font-size: 1.10em;
+}
+#current_max_bid{
+    font-weight: bold;
+    font-size: 1.10em;
+}

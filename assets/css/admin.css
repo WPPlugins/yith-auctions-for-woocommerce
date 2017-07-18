@@ -1,0 +1,68 @@
+#_yith_auction_for {
+	width: 20%;
+	margin-right: 20px;
+}
+#_yith_auction_to {
+	width: 20%;
+}
+.yith-auction-status-column::after{
+	content: "\e033";
+	color: grey;
+}
+.yith-wcact-auction-status{
+	font-family: WooCommerce;
+	text-align: center;
+}
+.yith-auction-non-start::after{
+	content: "\e033";
+	color: grey;
+	font-size:150%;
+}
+.yith-auction-started::after {
+	content: "\e011";
+	color: dodgerblue;
+	font-size:150%;
+}
+.yith-auction-started-reached-reserve::after {
+	content: "\e011";
+	color: darkorange;
+	font-size:150%;
+}
+.yith-auction-finished::after {
+	content: "\e015";
+	color: deepskyblue;
+	font-size:150%;
+}
+.yith-auction-finished-reached-reserve::after {
+	content: "\e015";
+	color: red;
+	font-size:150%;
+}
+
+.yith-auction-finnish-buy-now::after {
+	content: "\e015";
+	color: green;
+	font-size:150%;
+}
+
+#yith-reshedule-notice-admin {
+	display:none;
+	font-weight: bold;
+	font-size: 110%;
+}
+.yith_auction_prices{
+	padding:6px 28px !important;
+	font-size: 12px !important;
+	background: #d1d1d1 !important;
+	color: #333 !important;
+	text-decoration: none!important;
+	text-transform: uppercase!important;
+	font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif !important;
+	font-weight: 400 !important;
+	border-radius: 3px !important;
+	display: inline-block !important;
+}
+
+.yith_auction_prices:hover{
+	background: #ccc !important;
+}
